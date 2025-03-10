@@ -10,15 +10,30 @@ else:
     print("light is broken")"""
 
 
-marks = int(input("marks:"))
-if (marks >= 90 ):
-    print("A")
-elif (marks >= 80 and marks < 90):
-    print("B")
-elif (marks >= 70 and marks < 80):
-    print("C")
+# marks = int(input("marks:"))
+# if (marks >= 90 ):
+#     print("A")
+# elif (marks >= 80 and marks < 90):
+#     print("B")
+# elif (marks >= 70 and marks < 80):
+#     print("C")
+# else:
+#     print("D")
+
+   
+
+#  a=5 & g=m
+a=int(input("a: "))
+g=input("m/f:")
+if((a==1 or a==2)and g=="m"):
+    print("fee is 100")
+elif(a==3 or a==4 or g=="f"):
+    print("fee is 200")
+elif(a==5 and g=="m"):
+    print("fee is 300")
 else:
-    print("D")
+    print("no fee")
+
 
 
 
