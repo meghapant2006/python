@@ -20,26 +20,28 @@ else:
 # else:
 #     print("D")
 
-   
 
 #  a=5 & g=m
-a=int(input("a: "))
-g=input("m/f:")
-if((a==1 or a==2)and g=="m"):
-    print("fee is 100")
-elif(a==3 or a==4 or g=="f"):
-    print("fee is 200")
-elif(a==5 and g=="m"):
-    print("fee is 300")
-else:
-    print("no fee")
+#  a =2 & g=f
+# a=int(input("a: "))
+# g=input("m/f:")
+# if((a==1 or a==2)and g=="m"):
+#     print("fee is 100")
+# elif(a==3 or a==4 or g=="f"):
+#     print("fee is 200")
+# elif(a==5 and g=="m"):
+#     print("fee is 300")
+# else:
+#     print("no fee")
+age = int(input("age:"))
+name =("i am 19:")
+dekho = "yess" if age == int(19) else "no"
+print(dekho) 
 
-
-
-
-
-
-
-
-
-    
+# name = input("My love is ")
+# if (name == "sahil bajaj"):
+#     print("yepp alwayssss")
+# elif (name == "mannu"):
+#     print("yepp alwayssss sahils love")
+# else:
+#     print("naa chiii kabhi nahi")
