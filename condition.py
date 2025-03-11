@@ -33,10 +33,11 @@ else:
 #     print("fee is 300")
 # else:
 #     print("no fee")
+
 age = int(input("age:"))
 name =("i am 19:")
-dekho = "yess" if age == int(19) else "no"
-print(dekho) 
+megha = "yess" if age == int(19) else "no"
+print(megha) 
 
 # name = input("My love is ")
 # if (name == "sahil bajaj"):
@@ -45,4 +46,3 @@ print(dekho)
 #     print("yepp alwayssss sahils love")
 # else:
 #     print("naa chiii kabhi nahi")
-pk
