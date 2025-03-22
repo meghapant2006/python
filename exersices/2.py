@@ -52,24 +52,63 @@
 # # Find the length of the string
 # print(len(text))
 
-word = "Hi! "
-# Print the word 5 times
-print(word*5)
+# word = "Hi! "
+# # Print the word 5 times
+# print(word*5)
 
-text = "HELLO WORLD"
-# Convert the string to lowercase
-print(text.lower())
+# text = "HELLO WORLD"
+# # Convert the string to lowercase
+# print(text.lower())
 
-text = "Python is fun"
-# Find the index of the word "fun"
-print(text.find("fun"))
+# text = "Python is fun"
+# # Find the index of the word "fun"
+# print(text.find("fun"))
 
-sentence = "banana"
-# Count how many times 'a' appears in the sentence
-print(sentence.count("a"))
+# sentence = "banana"
+# # Count how many times 'a' appears in the sentence
+# print(sentence.count("a"))
 
-text = "Hello123"
-# Check if all characters are alphabetic
-print(type(text))
+# text = "Hello123"
+# # Check if all characters are alphabetic
+# print(type(text))
+
+# num=int(input("Number is: "))
+# if(num %2==0):
+#     print(f"{num} is even")
+# else:
+#     print(f"{num} is odd")
+     
+
+    # a>=b  b>=c
+    # b>=a a>=c
+
+# a=int(input("Number is: "))
+# b=int(input("Number is: "))
+# c=int(input("Number is: "))
+# if(a>=b and a>=c):
+#     print(f"The greatest among three is {a}")
+# elif(b>=a and b>=c ): 
+#     print(f"The greatest among three is {b}")
+# elif(c>=a and c>=b): 
+#     print(f"The greatest among three is {c}")
+# else: 
+#     print("Sab barabar hai bhai mat dekh ")
+    
+# num=int(input("num="))
+# print(f"number is {num}")
+
+# a="1"
+# b=2
+# c=3
+# print(int(a)+b)
+# print(str(c)+a)
+
+# num=int(input("the number is"))
+# if(num% 7 ==0):
+#     print(f"{num} is multiple of 7")
+# else:
+#     print(f"{num} is not multiple of 7")
 
 
+
+ 
