@@ -103,6 +103,7 @@
 # print(int(a)+b)
 # print(str(c)+a)
 
+
 # num=int(input("the number is"))
 # if(num% 7 ==0):
 #     print(f"{num} is multiple of 7")

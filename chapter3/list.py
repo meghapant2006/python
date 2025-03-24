@@ -2,7 +2,7 @@
 # print(my_list)
 # print(type(my_list))
 # print(len(my_list))
-# print(my_list[0]m)
+# print(my_list[0])
 # my_list([0][3])
 
 
@@ -21,16 +21,15 @@
 
 
 # list methods...
-marks=[65,87,54,84,34,65,45,67,56]
+# marks=[65,87,54,84,65,34,65,45,67,56]
 
 # marks.append(200)
 # marks.sort()
 # marks.sort(reverse=True)
 # marks.reverse()
+# marks.insert(0,98) 
+# marks.remove(65)
+# marks.pop(3)
+# print(marks.count(65))
+# print(marks) 
 
-
-print(marks)
-
-
-
- 
