@@ -57,6 +57,4 @@
 # tup.sort()
 # print(tup)
 
-
-
-
+  
