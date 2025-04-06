@@ -42,4 +42,6 @@ print(list(student["subj"].keys()))
 print(list(student.values()))
 print(list(student["subj"].values()))
 print(student.items())
-hn wsp pe aao 
+
+
+ 
