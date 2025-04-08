@@ -11,12 +11,15 @@
 # num = len(subjects)
 # print(f"There are {num} of class room")
 
+
+# num=3
 # print("okok:",num)
 # print(f"ok {num} ok")  example
 
 
 
 marks = {}
+
 x = int(input("enter phy: "))
 marks.update({"phy": x})
 
@@ -27,3 +30,4 @@ z = int(input("enter eng: "))
 marks.update({"eng": z})
 
 print(marks)
+
