@@ -5,7 +5,6 @@
 # print(dict)
 
 
-
 # subjects = {"python", "java", "C++", "python",
 #             "js", "java", "python", "java", "C++", "C"}
 # num = len(subjects)
@@ -17,17 +16,24 @@
 # print(f"ok {num} ok")  example
 
 
+# marks = {}
 
-marks = {}
+# x = int(input("enter phy: "))
+# marks.update({"phy": x})
 
-x = int(input("enter phy: "))
-marks.update({"phy": x})
+# y = int(input("enter math: "))
+# marks.update({"math": y})
 
-y = int(input("enter math: "))
-marks.update({"math": y})
+# z = int(input("enter eng: "))
+# marks.update({"eng": z})
 
-z = int(input("enter eng: ")) 
-marks.update({"eng": z})
+# print(marks)
 
-print(marks)
 
+value = {9, "9.0"}
+print(value)
+
+values = {
+    ("float",9.0),("int",9)
+}
+print(values)
